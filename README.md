@@ -1,4 +1,4 @@
-# Indonesian Law Chatbot 🇮🇩⚖️
+# Neuro-Symbolic AI 🇮🇩⚖️
 
 A production-ready AI chatbot specialized in Indonesian law, built with Next.js, TypeScript, and the Gemini API. This application provides accurate legal information with comprehensive validation and source citation enforcement.
 
@@ -30,7 +30,7 @@ A production-ready AI chatbot specialized in Indonesian law, built with Next.js,
 
 1. **Clone and Setup**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aryarifki/Neuro-SymAi.git
    cd indonesian-law-chatbot
    npm install
    ```
