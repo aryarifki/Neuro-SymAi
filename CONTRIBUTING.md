@@ -27,7 +27,7 @@ By participating in this project, you agree to abide by our Code of Conduct:
 1. **Fork the repository**
    ```bash
    git clone https://github.com/aryarifki/Neuro-SymAi.git
-   cd indonesian-law-chatbot
+   cd Neuro-SymAi
    ```
 
 2. **Install dependencies**
