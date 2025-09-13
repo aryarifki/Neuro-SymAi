@@ -1,5 +1,5 @@
 {
-  "name": "indonesian-law-chatbot",
+  "name": "Neuro-SymAi",
   "version": "1.0.0",
   "description": "AI chatbot for Indonesian law queries using Gemini API",
   "private": true,
@@ -39,6 +39,6 @@
     "typescript",
     "vercel"
   ],
-  "author": "Your Name",
+  "author": "Arya Rifki 仁耀辉",
   "license": "MIT"
 }
