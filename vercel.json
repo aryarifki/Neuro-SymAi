@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "name": "indonesian-law-chatbot",
+  "version": 1,
+  "name": "Neuro-SymAi",
   "builds": [
     {
       "src": "next.config.js",
