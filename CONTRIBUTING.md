@@ -1,4 +1,4 @@
-# Contributing to Indonesian Law Chatbot
+# Contributing to Neuro-SymAi
 
 Thank you for your interest in contributing to the Indonesian Law Chatbot! This guide will help you get started with contributing to this project.
 
